@@ -24,10 +24,10 @@ body:
       label: பிழை செய்வதற்கான படிகள்
       description: நடத்தையை மீண்டும் உருவாக்குவதற்கான படிகள்.
       placeholder: |
-        1. Go to '...'
-        2. Click on '...'
-        3. Scroll down to '...'
-        4. See error
+        1. G '...' இங்குச் செல்
+        2. C '...' என்பதைக் சொடுக்கவும்
+        3. S '...' கீழே நகர்த்தவும்
+        4. Sபிழை பார்க்கவும்
     validations:
       required: true
   - type: textarea
