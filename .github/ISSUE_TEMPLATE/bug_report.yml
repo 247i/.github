@@ -21,7 +21,7 @@ body:
   - type: textarea
     id: steps-to-reproduce
     attributes:
-      label: Steps To Reproduce
+      label: பிழை செய்வதற்கான படிகள்
       description: Steps to reproduce the behavior.
       placeholder: |
         1. Go to '...'
@@ -33,6 +33,6 @@ body:
   - type: textarea
     id: additional-information
     attributes:
-      label: Additional Information
+      label: கூடுதல் தகவல்
       description: |
         Pபதிவுகள், ஸ்கிரீன்ஷாட்கள், விருப்பங்கள், பிழை ஏற்படும் காட்சிகள் போன்ற கூடுதல் தகவலை வழங்கவும், இதனால் சிக்கலைத் தீர்க்க இது உதவுகிறது.
