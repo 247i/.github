@@ -1,133 +1,132 @@
+# பங்களிப்பாளர் உடன்படிக்கை நடத்தை விதிகள்
 
-# Contributor Covenant Code of Conduct
+## நமது உறுதிமொழி
 
-## Our Pledge
+உறுப்பினர்களாகவும், பங்களிப்பாளர்களாகவும், தலைவர்களாகவும் நாங்கள் எங்களுடைய பங்கேற்பதாக உறுதியளிக்கிறோம்
+சமூகம், வயது, உடல் வேறுபாடின்றி அனைவருக்கும் தொல்லை இல்லாத அனுபவம்
+அளவு, காணக்கூடிய அல்லது கண்ணுக்கு தெரியாத இயலாமை, இனம், பாலின பண்புகள், பாலினம்
+அடையாளம் மற்றும் வெளிப்பாடு, அனுபவ நிலை, கல்வி, சமூக-பொருளாதார நிலை,
+தேசியம், தனிப்பட்ட தோற்றம், இனம், சாதி, நிறம், மதம் அல்லது பாலியல்
+அடையாளம் மற்றும் நோக்குநிலை.
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual
-identity and orientation.
+திறந்த, வரவேற்புக்கு பங்களிக்கும் வழிகளில் செயல்படவும் தொடர்பு கொள்ளவும் நாங்கள் உறுதியளிக்கிறோம்
+பல்வேறு, உள்ளடக்கிய மற்றும் ஆரோக்கியமான சமூகம்.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+## எங்கள் தரநிலைகள்
 
-## Our Standards
+நமக்கான நேர்மறையான சூழலுக்கு பங்களிக்கும் நடத்தையின் எடுத்துக்காட்டுகள்
+சமூகம் அடங்கும்:
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+* மற்றவர்களிடம் பச்சாதாபம் மற்றும் கருணை காட்டுதல்
+* மாறுபட்ட கருத்துக்கள், கண்ணோட்டங்கள் மற்றும் அனுபவங்களுக்கு மதிப்பளித்தல்
+* ஆக்கபூர்வமான கருத்துக்களை வழங்குதல் மற்றும் மனதார ஏற்றுக்கொள்வது
+* நம் தவறுகளால் பாதிக்கப்பட்டவர்களிடம் பொறுப்பை ஏற்று மன்னிப்பு கேட்பது,
+   மற்றும் அனுபவத்திலிருந்து கற்றுக்கொள்வது
+* தனிநபர்களாகிய நமக்கு மட்டுமல்ல, ஒட்டுமொத்த மக்களுக்கும் எது சிறந்தது என்பதில் கவனம் செலுத்துதல்
+   சமூக
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall
-  community
+ஏற்றுக்கொள்ள முடியாத நடத்தைக்கான எடுத்துக்காட்டுகள் பின்வருமாறு:
 
-Examples of unacceptable behavior include:
+* பாலியல் மொழி அல்லது உருவங்களின் பயன்பாடு, மற்றும் பாலியல் கவனம் அல்லது முன்னேற்றங்கள்
+   எந்த வகையான
+* ட்ரோலிங், அவமதிப்பு அல்லது இழிவான கருத்துக்கள் மற்றும் தனிப்பட்ட அல்லது அரசியல் தாக்குதல்கள்
+* பொது அல்லது தனிப்பட்ட துன்புறுத்தல்
+* உடல் அல்லது மின்னஞ்சல் முகவரி போன்ற பிறரின் தனிப்பட்ட தகவல்களை வெளியிடுதல்,
+   அவர்களின் வெளிப்படையான அனுமதியின்றி
+* நியாயமான முறையில் பொருத்தமற்றதாகக் கருதப்படும் பிற நடத்தை a
+   தொழில்முறை அமைப்பு
 
-* The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+## அமலாக்கப் பொறுப்புகள்
 
-## Enforcement Responsibilities
+எங்கள் தரநிலைகளை தெளிவுபடுத்துவதற்கும் செயல்படுத்துவதற்கும் சமூகத் தலைவர்கள் பொறுப்பு
+ஏற்றுக்கொள்ளக்கூடிய நடத்தை மற்றும் சரியான மற்றும் நியாயமான திருத்த நடவடிக்கைகளை எடுக்கும்
+அவர்கள் பொருத்தமற்ற, அச்சுறுத்தும், தாக்குதல் என்று கருதும் எந்தவொரு நடத்தைக்கும் பதில்
+அல்லது தீங்கு விளைவிக்கும்.
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+அகற்ற, திருத்த அல்லது நிராகரிக்க சமூகத் தலைவர்களுக்கு உரிமையும் பொறுப்பும் உள்ளது
+கருத்துகள், பொறுப்புகள், குறியீடு, விக்கி திருத்தங்கள், சிக்கல்கள் மற்றும் பிற பங்களிப்புகள்
+இந்த நடத்தை நெறிமுறையுடன் சீரமைக்கப்படவில்லை, மேலும் நிதானத்திற்கான காரணங்களைத் தெரிவிக்கும்
+பொருத்தமான போது முடிவுகள்.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+## வாய்ப்பு
 
-## Scope
+இந்த நடத்தை நெறிமுறை அனைத்து சமூக இடைவெளிகளிலும் பொருந்தும், மேலும் எப்போது பொருந்தும்
+ஒரு நபர் அதிகாரப்பூர்வமாக பொது இடங்களில் சமூகத்தை பிரதிநிதித்துவப்படுத்துகிறார்.
+எங்கள் சமூகத்தை பிரதிநிதித்துவப்படுத்துவதற்கான எடுத்துக்காட்டுகளில் அதிகாரப்பூர்வ மின்னஞ்சல் முகவரியைப் பயன்படுத்துவது அடங்கும்,
+உத்தியோகபூர்வ சமூக ஊடக கணக்கு மூலம் இடுகையிடுதல் அல்லது நியமிக்கப்பட்டவராக செயல்படுதல்
+ஆன்லைன் அல்லது ஆஃப்லைன் நிகழ்வின் பிரதிநிதி.
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+## அமலாக்கம்
 
-## Enforcement
+துஷ்பிரயோகம், துன்புறுத்தல் அல்லது ஏற்றுக்கொள்ள முடியாத நடத்தை போன்ற நிகழ்வுகள் இருக்கலாம்
+இல் அமலாக்கத்திற்கு பொறுப்பான சமூகத் தலைவர்களிடம் தெரிவிக்கப்பட்டது
+[தொடர்பு முறையைச் செருகவும்].
+அனைத்து புகார்களும் உடனடியாகவும் நியாயமாகவும் மதிப்பாய்வு செய்யப்பட்டு விசாரிக்கப்படும்.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
-All complaints will be reviewed and investigated promptly and fairly.
+அனைத்து சமூகத் தலைவர்களும் தனியுரிமை மற்றும் பாதுகாப்பை மதிக்கக் கடமைப்பட்டுள்ளனர்
+எந்தவொரு சம்பவத்தையும் நிருபர்.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+## அமலாக்க வழிகாட்டுதல்கள்
 
-## Enforcement Guidelines
+சமூகத் தலைவர்கள் இந்த சமூக தாக்க வழிகாட்டுதல்களை தீர்மானிப்பதில் பின்பற்றுவார்கள்
+இந்த நடத்தை விதியை மீறுவதாக அவர்கள் கருதும் எந்தவொரு செயலுக்கான விளைவுகள்:
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+### 1. திருத்தம்
 
-### 1. Correction
+**சமூக தாக்கம்**: பொருத்தமற்ற மொழியின் பயன்பாடு அல்லது பிற நடத்தை எனக் கருதப்படுகிறது
+சமூகத்தில் தொழில்சார்ந்த அல்லது விரும்பத்தகாத.
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+** விளைவு**: சமூகத் தலைவர்களிடமிருந்து தனிப்பட்ட, எழுதப்பட்ட எச்சரிக்கை, வழங்குதல்
+மீறலின் தன்மை பற்றிய தெளிவு மற்றும் ஏன் என்பதற்கான விளக்கம்
+நடத்தை பொருத்தமற்றது. பகிரங்க மன்னிப்பு கோரப்படலாம்.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+### 2. எச்சரிக்கை
 
-### 2. Warning
+**சமூக பாதிப்பு**: ஒரு சம்பவம் அல்லது தொடரின் மூலம் மீறல்
+செயல்கள்.
 
-**Community Impact**: A violation through a single incident or series of
-actions.
+** விளைவு**: தொடர் நடத்தைக்கான விளைவுகளுடன் கூடிய எச்சரிக்கை. இல்லை
+சம்பந்தப்பட்ட நபர்களுடனான தொடர்பு, கோரப்படாத தொடர்பு உட்பட
+குறிப்பிட்ட காலத்திற்கு, நடத்தை விதிகளை அமல்படுத்துபவர்கள். இது
+சமூக இடங்கள் மற்றும் வெளிப்புற சேனல்களில் தொடர்புகளைத் தவிர்ப்பது அடங்கும்
+சமூக ஊடகங்கள் போன்றவை. இந்த விதிமுறைகளை மீறுவது தற்காலிகமாக அல்லது நிரந்தரமாக இருக்கலாம்
+தடை.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
+### 3. தற்காலிக தடை
 
-### 3. Temporary Ban
+**சமூகத் தாக்கம்**: சமூகத் தரங்களின் கடுமையான மீறல் உட்பட
+பொருத்தமற்ற நடத்தை நீடித்தது.
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+** விளைவு**: எந்த வகையான தொடர்பு அல்லது பொதுவில் இருந்து தற்காலிக தடை
+ஒரு குறிப்பிட்ட காலத்திற்கு சமூகத்துடன் தொடர்பு. பொது இல்லை அல்லது
+கோரப்படாத தொடர்பு உட்பட சம்பந்தப்பட்ட நபர்களுடனான தனிப்பட்ட தொடர்பு
+நடத்தை விதிகளை அமல்படுத்துபவர்களுடன், இந்த காலகட்டத்தில் அனுமதிக்கப்படுகிறது.
+இந்த விதிமுறைகளை மீறுவது நிரந்தர தடைக்கு வழிவகுக்கும்.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+### 4. நிரந்தர தடை
 
-### 4. Permanent Ban
+**சமூக தாக்கம்**: சமூகத்தை மீறும் வடிவத்தை வெளிப்படுத்துதல்
+நிலையான தகாத நடத்தை, துன்புறுத்தல் உள்ளிட்ட தரநிலைகள்
+தனிநபர், அல்லது தனிநபர்களின் வகுப்புகளை நோக்கிய ஆக்கிரமிப்பு அல்லது அவமதிப்பு.
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+** விளைவு**: எந்த வகையான பொது தொடர்புகளிலிருந்தும் நிரந்தரத் தடை
+சமூக.
 
-**Consequence**: A permanent ban from any sort of public interaction within the
-community.
+## பண்புக்கூறு
 
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
+இந்த நடத்தை விதிகள் [பங்களிப்பாளர் உடன்படிக்கை] [முகப்புப்பக்கம்] இருந்து தழுவி எடுக்கப்பட்டது,
+பதிப்பு 2.1, கிடைக்கும்
 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+சமூக தாக்க வழிகாட்டுதல்கள் ஈர்க்கப்பட்டன
+[மொசில்லாவின் நடத்தை விதி அமலாக்க ஏணி] [Mozilla CoC].
 
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
+பொதுவான கேள்விகளுக்கான பதில்களுக்குஇந்த நடத்தை விதிகள் பற்றி, அடிக்கடி கேட்கப்படும் கேள்விகளைப் பார்க்கவும்
+[https://www.contributor-covenant.org/faq][FAQ]. மொழிபெயர்ப்புகள் கிடைக்கின்றன
 [https://www.contributor-covenant.org/translations][translations].
 
-[homepage]: https://www.contributor-covenant.org
+[முகப்புப்பக்கம்]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+[மொழிபெயர்ப்புகள்]: https://www.contributor-covenant.org/translations
