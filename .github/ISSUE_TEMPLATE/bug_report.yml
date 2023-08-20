@@ -13,16 +13,16 @@ body:
   - type: textarea
     id: bug-description
     attributes:
-      label: Description of the bug
-      description: Give us a brief description of what happened and what should have happened
+      label: பிழையின் விளக்கம்
+      description: என்ன நடந்தது மற்றும் என்ன நடந்திருக்க வேண்டும் என்பதற்கான சுருக்கமான விளக்கத்தை எங்களுக்குத் தரவும்
     validations:
       required: true
       
   - type: textarea
     id: steps-to-reproduce
     attributes:
-      label: Steps To Reproduce
-      description: Steps to reproduce the behavior.
+      label: பிழை செய்வதற்கான படிகள்
+      description: நடத்தையை மீண்டும் உருவாக்குவதற்கான படிகள்.
       placeholder: |
         1. Go to '...'
         2. Click on '...'
