@@ -1,7 +1,7 @@
 name: 🐛Bug Report
 description: பிழை அறிக்கையை இங்கே பதிவு செய்யவும்
-title: "[BUG]: "
-labels: ["bug"]
+title: "[பிழை]: "
+labels: ["பிழை"]
 assignees: ["TamilNeram"]
 body:
   - type: markdown
