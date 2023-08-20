@@ -1,6 +1,6 @@
 name: ✨அம்ச கோரிக்கை
 description: புதிய அம்சம் அல்லது மேம்பாட்டைக் கோரவும்
-labels: ["மேம்படுத்துதல்"]
+labels: ["enhancement"]
 title: "[அம்சம்]: "
 body:
   - type: markdown
