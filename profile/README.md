@@ -1,10 +1,10 @@
-## Hi there 👋
+## வணக்கம் 👋
 
 
-**Here are some ideas to get you started:**
+**தொடங்குவதற்குச் சில சிந்தனைகள் இங்கே:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍♀️ ஒரு சிறிய அறிமுகம் - உங்கள் அமைப்பு எதைப் பற்றியது?
+🌈 பங்களிப்புக்கான வழிகாட்டுதல்கள் - சமூகம் இதில் எவ்வாறு பங்கேற்கலாம்?
+👩‍💻 பயனுள்ள வளங்கள் - உங்கள் ஆவணங்களைச் சமூகம் எங்கே காணலாம்? சமூகம் தெரிந்துகொள்ள வேண்டிய வேறு ஏதேனும் தகவல்கள் உள்ளனவா?
+🍿 இன்பமான தகவல்கள் - உங்கள் குழுவினர் காலை உணவாக என்ன சாப்பிடுவார்கள்?
+🧙 நினைவில் கொள்ளுங்கள், [குறைகுறியின்](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) ஆற்றலைக் கொண்டு நீங்கள் பல சிறப்பான செயல்களைச் செய்யலாம்.
