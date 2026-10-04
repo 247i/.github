@@ -1,7 +1,7 @@
 name: ✨அம்ச கோரிக்கை
-description: புதிய அம்சம் அல்லது மேம்பாட்டைக் கோரவும்
+description: புதிய நற்பண்பு அல்லது மேம்பாட்டைக் கோரவும்
 labels: ["enhancement"]
-title: "[அம்சம்]: "
+title: "[நற்பண்பு]: "
 body:
   - type: markdown
     attributes:
@@ -12,7 +12,7 @@ body:
     id: description
     attributes:
       label: விளக்கம்
-      description: நீங்கள் விரும்பும் அம்சம் அல்லது மேம்பாடு பற்றிய சுருக்கமான விளக்கத்தை எங்களுக்கு வழங்கவும்
+      description: நீங்கள் விரும்பும் நற்பண்பு அல்லது மேம்பாடு பற்றிய சுருக்கமான விளக்கத்தை எங்களுக்கு வழங்கவும்
     validations:
       required: true
       
