@@ -1,0 +1,81 @@
+from __future__ import annotations
+from typing import Callable
+
+from qtpy import QtCore
+from qtpy import QtGui
+from qtpy import QtWidgets
+from qtpy.QtCore import Qt
+
+try:
+    from qtpy import PYQT4
+except ImportError:
+    PYQT4 = False
+
+from . import hotkeys
+
+
+def patch(
+    obj: type[QtWidgets.QGraphicsItem] | type[QtGui.QKeySequence],
+    attr: str,
+    value: Callable | QtGui.QKeySequence,
+) -> None:
+    if not hasattr(obj, attr):
+        setattr(obj, attr, value)
+
+
+def install() -> None:
+    patch(QtWidgets.QGraphicsItem, 'mapRectToScene', _map_rect_to_scene)
+    patch(QtGui.QKeySequence, 'Preferences', hotkeys.PREFERENCES)
+
+
+def add_search_path(prefix: str, path: str) -> None:
+    if hasattr(QtCore.QDir, 'addSearchPath'):
+        QtCore.QDir.addSearchPath(prefix, path)
+
+
+def set_search_paths(prefix: str, paths: list[str]) -> None:
+    if hasattr(QtCore.QDir, 'setSearchPaths'):
+        QtCore.QDir.setSearchPaths(prefix, paths)
+
+
+def set_common_dock_options(window) -> None:
+    if not hasattr(window, 'setDockOptions'):
+        return
+    nested = QtWidgets.QMainWindow.AllowNestedDocks
+    tabbed = QtWidgets.QMainWindow.AllowTabbedDocks
+    animated = QtWidgets.QMainWindow.AnimatedDocks
+    window.setDockOptions(nested | tabbed | animated)
+
+
+def _map_rect_to_scene(self, rect):
+    """Only available in newer PyQt4 versions"""
+    return self.sceneTransform().mapRect(rect)
+
+
+def wheel_translation(event):
+    """Return the (Tx, Ty) translation delta for a pan"""
+    if PYQT4:
+        tx = event.delta()
+        ty = 0.0
+        if event.orientation() == Qt.Vertical:
+            (tx, ty) = (ty, tx)
+    else:
+        angle = event.angleDelta()
+        tx = angle.x()
+        ty = angle.y()
+    return (tx, ty)
+
+
+def wheel_delta(event):
+    """Return a single wheel delta"""
+    if PYQT4:
+        delta = event.delta()
+    else:
+        angle = event.angleDelta()
+        x = angle.x()
+        y = angle.y()
+        if abs(x) > abs(y):
+            delta = x
+        else:
+            delta = y
+    return delta
