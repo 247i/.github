@@ -23,15 +23,15 @@
     <WindowPosition>
       <Rect>
         <Location>
-          <X>50</X>
-          <Y>-42</Y>
+          <X>186</X>
+          <Y>-53</Y>
         </Location>
         <Size>
           <Width>1459</Width>
           <Height>1150</Height>
         </Size>
-        <X>50</X>
-        <Y>-42</Y>
+        <X>186</X>
+        <Y>-53</Y>
         <Width>1459</Width>
         <Height>1150</Height>
       </Rect>
@@ -42,15 +42,15 @@
     <WindowPosition>
       <Rect>
         <Location>
-          <X>76</X>
-          <Y>76</Y>
+          <X>212</X>
+          <Y>65</Y>
         </Location>
         <Size>
           <Width>1406</Width>
           <Height>915</Height>
         </Size>
-        <X>76</X>
-        <Y>76</Y>
+        <X>212</X>
+        <Y>65</Y>
         <Width>1406</Width>
         <Height>915</Height>
       </Rect>

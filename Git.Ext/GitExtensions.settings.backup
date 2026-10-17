@@ -2,6 +2,14 @@
 <dictionary>
   <item>
     <key>
+      <string>5ae20ab1-d677-46c5-abdb-7874ff5a9296.Find large files bigger than (Mb)</string>
+    </key>
+    <value>
+      <string>100</string>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>addnewlinetocommitmessagewhenmissing</string>
     </key>
     <value>
@@ -285,7 +293,7 @@
       <string>defaultclonedestinationpath</string>
     </key>
     <value>
-      <string>..\..\G</string>
+      <string>..\..\..\G</string>
     </value>
   </item>
   <item>
@@ -522,6 +530,14 @@
   </item>
   <item>
     <key>
+      <string>f0a6a769-6dcc-4452-9a43-343347015eec.Path to Gource</string>
+    </key>
+    <value>
+      <string>../Gource/Gource.exe</string>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>FillRefLabels</string>
     </key>
     <value>
@@ -701,7 +717,7 @@
       <string>FormBrowse.fileTree.LeftSplitContainer_Distance</string>
     </key>
     <value>
-      <string>331</string>
+      <string>358</string>
     </value>
   </item>
   <item>
@@ -749,7 +765,7 @@
       <string>FormBrowse.LeftSplitContainer_Distance</string>
     </key>
     <value>
-      <string>690</string>
+      <string>717</string>
     </value>
   </item>
   <item>
@@ -989,7 +1005,7 @@
       <string>FormBrowse.revisionDiff.LeftSplitContainer_Distance</string>
     </key>
     <value>
-      <string>331</string>
+      <string>358</string>
     </value>
   </item>
   <item>
@@ -1037,7 +1053,7 @@
       <string>FormBrowse.RevisionsSplitContainer_Distance</string>
     </key>
     <value>
-      <string>812</string>
+      <string>839</string>
     </value>
   </item>
   <item>
@@ -1865,7 +1881,7 @@
       <string>showstashcount</string>
     </key>
     <value>
-      <string>false</string>
+      <string>true</string>
     </value>
   </item>
   <item>
@@ -1881,7 +1897,7 @@
       <string>StartWithRecentWorkingDir</string>
     </key>
     <value>
-      <string>false</string>
+      <string>true</string>
     </value>
   </item>
   <item>
