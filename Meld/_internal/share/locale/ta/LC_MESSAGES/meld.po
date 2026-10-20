@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: meld meld-3-22\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/meld/issues\n"
 "POT-Creation-Date: 2025-03-09 00:33+0000\n"
-"PO-Revision-Date: 2026-02-14 04:39\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2026-10-20 13:57+0530\n"
+"Last-Translator: \n"
 "Language-Team: Tamil <ta@li.org>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #: data/org.gnome.meld.desktop.in.in:2 data/org.gnome.meld.appdata.xml.in.in:11
 #: meld/resources/ui/appwindow.ui:9 meld/resources/ui/appwindow.ui:17
@@ -37,24 +38,23 @@ msgstr "வேறுபாடு; ஒன்றிணைத்தல்;"
 
 #: data/org.gnome.meld.appdata.xml.in.in:14
 msgid ""
-"Meld is a visual diff and merge tool targeted at developers. Meld helps you "
-"compare files, directories, and version controlled projects. It provides "
-"two- and three-way comparison of both files and directories, and supports "
-"many version control systems including Git, Mercurial, Bazaar and Subversion."
+"Meld is a visual diff and merge tool targeted at developers. Meld helps you compare files, "
+"directories, and version controlled projects. It provides two- and three-way comparison of "
+"both files and directories, and supports many version control systems including Git, "
+"Mercurial, Bazaar and Subversion."
 msgstr ""
-"மெல்ட் என்பது டெவலப்பர்களை இலக்காகக் கொண்ட ஒரு காட்சி வேறுபாடு மற்றும் ஒன்றிணைக்கும் "
-"கருவியாகும். கோப்புகள், கோப்பகங்கள் மற்றும் பதிப்புக் கட்டுப்படுத்தப்பட்ட திட்டப்பணிகளை "
-"ஒப்பிட்டுப் பார்க்க Meld உதவுகிறது. இது கோப்புகள் மற்றும் கோப்பகங்கள் இரண்டையும் இரண்டு "
-"மற்றும் மூன்று வழி ஒப்பீடுகளை வழங்குகிறது, மேலும் Git, Mercurial, Bazaar மற்றும் "
-"கீழ்ப்படிதல் உள்ளிட்ட பல பதிப்பு கட்டுப்பாட்டு அமைப்புகளை ஆதரிக்கிறது."
+"மெல்ட் என்பது டெவலப்பர்களை இலக்காகக் கொண்ட ஒரு காட்சி வேறுபாடு மற்றும் ஒன்றிணைக்கும் கருவியாகும். கோப்புகள், "
+"கோப்பகங்கள் மற்றும் பதிப்புக் கட்டுப்படுத்தப்பட்ட திட்டப்பணிகளை ஒப்பிட்டுப் பார்க்க Meld உதவுகிறது. இது கோப்புகள் "
+"மற்றும் கோப்பகங்கள் இரண்டையும் இரண்டு மற்றும் மூன்று வழி ஒப்பீடுகளை வழங்குகிறது, மேலும் Git, Mercurial, "
+"Bazaar மற்றும் கீழ்ப்படிதல் உள்ளிட்ட பல பதிப்பு கட்டுப்பாட்டு அமைப்புகளை ஆதரிக்கிறது."
 
 #: data/org.gnome.meld.appdata.xml.in.in:21
 msgid ""
-"Meld helps you review code changes, understand patches, and makes enormous "
-"merge conflicts slightly less painful."
+"Meld helps you review code changes, understand patches, and makes enormous merge conflicts "
+"slightly less painful."
 msgstr ""
-"குறியீட்டு மாற்றங்களை மதிப்பாய்வு செய்யவும், இணைப்புகளைப் புரிந்துகொள்ளவும், மற்றும் மகத்தான "
-"ஒன்றிணைப்பு முரண்பாடுகளை சற்று வலியற்றதாக மாற்றவும் Meld உதவுகிறது."
+"குறியீட்டு மாற்றங்களை மதிப்பாய்வு செய்யவும், இணைப்புகளைப் புரிந்துகொள்ளவும், மற்றும் மகத்தான ஒன்றிணைப்பு "
+"முரண்பாடுகளை சற்று வலியற்றதாக மாற்றவும் Meld உதவுகிறது."
 
 #: data/org.gnome.meld.appdata.xml.in.in:51
 msgid "The GNOME Project"
@@ -86,11 +86,11 @@ msgstr "பயன்பாடு முழுவதும் இருண்ட 
 
 #: data/org.gnome.meld.gschema.xml:59
 msgid ""
-"If true, the GTK dark theme variant will be used, if available. Note that "
-"this is separate from the syntax highlighting scheme."
+"If true, the GTK dark theme variant will be used, if available. Note that this is separate "
+"from the syntax highlighting scheme."
 msgstr ""
-"உண்மை எனில், GTK டார்க் கருப்பொருள் மாறுபாடு இருந்தால், பயன்படுத்தப்படும். இது தொடரியல் "
-"தனிப்படுத்தல் திட்டத்திலிருந்து தனியானது என்பதை நினைவில் கொள்ளவும்."
+"உண்மை எனில், GTK டார்க் கருப்பொருள் மாறுபாடு இருந்தால், பயன்படுத்தப்படும். இது தொடரியல் தனிப்படுத்தல் "
+"திட்டத்திலிருந்து தனியானது என்பதை நினைவில் கொள்ளவும்."
 
 #: data/org.gnome.meld.gschema.xml:65
 msgid "Additional automatically detected text encodings"
@@ -98,15 +98,14 @@ msgstr "கூடுதல் தானாக கண்டறியப்பட�
 
 #: data/org.gnome.meld.gschema.xml:66
 msgid ""
-"Meld will use these text encodings to try to decode loaded text files before "
-"trying any other encodings. In addition to the encodings in this list, UTF-8 "
-"and the current locale-default encoding will always be used; other encodings "
-"may also be tried, depending on the user’s locale."
+"Meld will use these text encodings to try to decode loaded text files before trying any other "
+"encodings. In addition to the encodings in this list, UTF-8 and the current locale-default "
+"encoding will always be used; other encodings may also be tried, depending on the user’s "
+"locale."
 msgstr ""
-"மற்ற குறியாக்கங்களை முயற்சிக்கும் முன் ஏற்றப்பட்ட உரைக் கோப்புகளை டிகோட் செய்ய மெல்ட் இந்த "
-"உரை குறியாக்கங்களைப் பயன்படுத்தும். இந்தப் பட்டியலில் உள்ள குறியாக்கங்களுடன் கூடுதலாக, "
-"UTF-8 மற்றும் தற்போதைய மொழி-இயல்புநிலை குறியாக்கம் எப்போதும் பயன்படுத்தப்படும்; பயனரின் "
-"இருப்பிடத்தைப் பொறுத்து பிற குறியாக்கங்களும் முயற்சிக்கப்படலாம்."
+"மற்ற குறியாக்கங்களை முயற்சிக்கும் முன் ஏற்றப்பட்ட உரைக் கோப்புகளை டிகோட் செய்ய மெல்ட் இந்த உரை குறியாக்கங்களைப் "
+"பயன்படுத்தும். இந்தப் பட்டியலில் உள்ள குறியாக்கங்களுடன் கூடுதலாக, UTF-8 மற்றும் தற்போதைய மொழி-இயல்புநிலை "
+"குறியாக்கம் எப்போதும் பயன்படுத்தப்படும்; பயனரின் இருப்பிடத்தைப் பொறுத்து பிற குறியாக்கங்களும் முயற்சிக்கப்படலாம்."
 
 #: data/org.gnome.meld.gschema.xml:73
 msgid "Width of an indentation step"
@@ -122,8 +121,7 @@ msgstr "இடைவெளிகள் அல்லது தாவல்கள�
 
 #: data/org.gnome.meld.gschema.xml:79
 msgid "If true, any new indentation will use spaces instead of tabs."
-msgstr ""
-"சரி எனில், எந்தப் புதிய உள்தள்ளலும் தாவல்களுக்குப் பதிலாக இடைவெளிகளைப் பயன்படுத்தும்."
+msgstr "சரி எனில், எந்தப் புதிய உள்தள்ளலும் தாவல்களுக்குப் பதிலாக இடைவெளிகளைப் பயன்படுத்தும்."
 
 #: data/org.gnome.meld.gschema.xml:83 meld/resources/ui/statusbar-menu.ui:5
 msgid "Show line numbers"
@@ -139,11 +137,11 @@ msgstr "தொடரியலை முன்னிலைப்படுத்�
 
 #: data/org.gnome.meld.gschema.xml:89
 msgid ""
-"Whether to highlight syntax in comparisons. Because of Meld’s own color "
-"highlighting, this is off by default."
+"Whether to highlight syntax in comparisons. Because of Meld’s own color highlighting, this is "
+"off by default."
 msgstr ""
-"ஒப்பீடுகளில் தொடரியல் முன்னிலைப்படுத்த வேண்டுமா. மெல்டின் சொந்த நிறத்தை "
-"முன்னிலைப்படுத்தியதால், இது இயல்பாகவே முடக்கப்பட்டுள்ளது."
+"ஒப்பீடுகளில் தொடரியல் முன்னிலைப்படுத்த வேண்டுமா. மெல்டின் சொந்த நிறத்தை முன்னிலைப்படுத்தியதால், இது இயல்பாகவே "
+"முடக்கப்பட்டுள்ளது."
 
 #: data/org.gnome.meld.gschema.xml:93
 msgid "Color scheme to use for syntax highlighting"
@@ -151,8 +149,7 @@ msgstr "தொடரியல் சிறப்பம்சமாக பயன�
 
 #: data/org.gnome.meld.gschema.xml:94
 msgid "Used by GtkSourceView to determine colors for syntax highlighting"
-msgstr ""
-"தொடரியல் சிறப்பம்சத்திற்கான வண்ணங்களைத் தீர்மானிக்க GtkSourceView ஆல் பயன்படுத்தப்படுகிறது"
+msgstr "தொடரியல் சிறப்பம்சத்திற்கான வண்ணங்களைத் தீர்மானிக்க GtkSourceView ஆல் பயன்படுத்தப்படுகிறது"
 
 #: data/org.gnome.meld.gschema.xml:98
 msgid "Draw whitespace"
@@ -160,11 +157,9 @@ msgstr "இடைவெளியை வரையவும்"
 
 #: data/org.gnome.meld.gschema.xml:99
 msgid ""
-"If true, whitespace characters will be drawn in comparisons even if they are "
-"not in a changed area."
-msgstr ""
-"உண்மை எனில், மாற்றப்பட்ட பகுதியில் இல்லாவிட்டாலும், ஒயிட்ச்பேச் எழுத்துகள் ஒப்பீடுகளில் "
-"வரையப்படும்."
+"If true, whitespace characters will be drawn in comparisons even if they are not in a changed "
+"area."
+msgstr "உண்மை எனில், மாற்றப்பட்ட பகுதியில் இல்லாவிட்டாலும், ஒயிட்ச்பேச் எழுத்துகள் ஒப்பீடுகளில் வரையப்படும்."
 
 #: data/org.gnome.meld.gschema.xml:108
 msgid "Wrap mode"
@@ -172,21 +167,18 @@ msgstr "மடக்கு முறை"
 
 #: data/org.gnome.meld.gschema.xml:109
 msgid ""
-"Lines in file comparisons will be wrapped according to this setting, either "
-"not at all ('none'), at any character ('char') or only at the end of words "
-"('word')."
+"Lines in file comparisons will be wrapped according to this setting, either not at all "
+"('none'), at any character ('char') or only at the end of words ('word')."
 msgstr ""
-"கோப்பு ஒப்பீடுகளில் உள்ள கோடுகள் இந்த அமைப்பின் படி மூடப்பட்டிருக்கும், ஒன்று இல்லை "
-"('எதுவும்'), எந்த எழுத்திலும் ('char') அல்லது வார்த்தைகளின் முடிவில் ('வார்த்தை')."
+"கோப்பு ஒப்பீடுகளில் உள்ள கோடுகள் இந்த அமைப்பின் படி மூடப்பட்டிருக்கும், ஒன்று இல்லை ('எதுவும்'), எந்த எழுத்திலும் "
+"('char') அல்லது வார்த்தைகளின் முடிவில் ('வார்த்தை')."
 
 #: data/org.gnome.meld.gschema.xml:116 meld/resources/ui/statusbar-menu.ui:13
 msgid "Highlight current line"
 msgstr "தற்போதைய வரியை முன்னிலைப்படுத்தவும்"
 
 #: data/org.gnome.meld.gschema.xml:117
-msgid ""
-"If true, the line containing the cursor will be highlighted in file "
-"comparisons."
+msgid "If true, the line containing the cursor will be highlighted in file comparisons."
 msgstr "உண்மை எனில், கர்சரைக் கொண்ட கோடு கோப்பு ஒப்பீடுகளில் முன்னிலைப்படுத்தப்படும்."
 
 #: data/org.gnome.meld.gschema.xml:121
@@ -194,34 +186,26 @@ msgid "Use the system default monospace font"
 msgstr "கணினி இயல்புநிலை மோனோச்பேச் எழுத்துருவைப் பயன்படுத்தவும்"
 
 #: data/org.gnome.meld.gschema.xml:122
-msgid ""
-"If false, custom-font will be used instead of the system monospace font."
-msgstr ""
-"தவறு எனில், கணினி மோனோச்பேச் எழுத்துருவுக்குப் பதிலாக தனிப்பயன் எழுத்துரு "
-"பயன்படுத்தப்படும்."
+msgid "If false, custom-font will be used instead of the system monospace font."
+msgstr "தவறு எனில், கணினி மோனோச்பேச் எழுத்துருவுக்குப் பதிலாக தனிப்பயன் எழுத்துரு பயன்படுத்தப்படும்."
 
 #: data/org.gnome.meld.gschema.xml:126
 msgid "Custom font"
 msgstr "தனிப்பயன் எழுத்துரு"
 
 #: data/org.gnome.meld.gschema.xml:127
-msgid ""
-"The custom font to use, stored as a string and parsed as a Pango font "
-"description."
+msgid "The custom font to use, stored as a string and parsed as a Pango font description."
 msgstr ""
-"பயன்படுத்த வேண்டிய தனிப்பயன் எழுத்துரு, சரமாகச் சேமிக்கப்பட்டு, பாங்கோ எழுத்துரு "
-"விளக்கமாகப் பாகுபடுத்தப்படுகிறது."
+"பயன்படுத்த வேண்டிய தனிப்பயன் எழுத்துரு, சரமாகச் சேமிக்கப்பட்டு, பாங்கோ எழுத்துரு விளக்கமாகப் "
+"பாகுபடுத்தப்படுகிறது."
 
 #: data/org.gnome.meld.gschema.xml:133
 msgid "Show overview source map"
 msgstr "மேலோட்ட ஆதார வரைபடத்தைக் காட்டு"
 
 #: data/org.gnome.meld.gschema.xml:134
-msgid ""
-"If true, file comparisons will have paired source maps for compared files."
-msgstr ""
-"உண்மை எனில், கோப்பு ஒப்பீடுகள், ஒப்பிடப்பட்ட கோப்புகளுக்கான இணைக்கப்பட்ட மூல வரைபடங்களைக் "
-"கொண்டிருக்கும்."
+msgid "If true, file comparisons will have paired source maps for compared files."
+msgstr "உண்மை எனில், கோப்பு ஒப்பீடுகள், ஒப்பிடப்பட்ட கோப்புகளுக்கான இணைக்கப்பட்ட மூல வரைபடங்களைக் கொண்டிருக்கும்."
 
 #: data/org.gnome.meld.gschema.xml:139
 msgid "Style of overview map"
@@ -236,11 +220,8 @@ msgid "Ignore blank lines when comparing files"
 msgstr "கோப்புகளை ஒப்பிடும் போது வெற்று வரிகளை புறக்கணிக்கவும்"
 
 #: data/org.gnome.meld.gschema.xml:147
-msgid ""
-"If true, blank lines will be trimmed when highlighting changes between files."
-msgstr ""
-"உண்மை எனில், கோப்புகளுக்கு இடையே மாற்றங்களைத் தனிப்படுத்தும்போது வெற்றுக் கோடுகள் டிரிம் "
-"செய்யப்படும்."
+msgid "If true, blank lines will be trimmed when highlighting changes between files."
+msgstr "உண்மை எனில், கோப்புகளுக்கு இடையே மாற்றங்களைத் தனிப்படுத்தும்போது வெற்றுக் கோடுகள் டிரிம் செய்யப்படும்."
 
 #: data/org.gnome.meld.gschema.xml:154
 msgid "Use the system default editor"
@@ -248,11 +229,11 @@ msgstr "கணினி இயல்புநிலை திருத்தி�
 
 #: data/org.gnome.meld.gschema.xml:155
 msgid ""
-"If false, custom-editor-command will be used instead of the system editor "
-"when opening files externally."
+"If false, custom-editor-command will be used instead of the system editor when opening files "
+"externally."
 msgstr ""
-"தவறு எனில், கோப்புகளை வெளிப்புறமாகத் திறக்கும்போது கணினி எடிட்டருக்குப் பதிலாக "
-"தனிப்பயன்-எடிட்டர்-கமாண்ட் பயன்படுத்தப்படும்."
+"தவறு எனில், கோப்புகளை வெளிப்புறமாகத் திறக்கும்போது கணினி எடிட்டருக்குப் பதிலாக தனிப்பயன்-எடிட்டர்-கமாண்ட் "
+"பயன்படுத்தப்படும்."
 
 #: data/org.gnome.meld.gschema.xml:159
 msgid "The custom editor launch command"
@@ -260,35 +241,27 @@ msgstr "தனிப்பயன் எடிட்டர் துவக்க 
 
 #: data/org.gnome.meld.gschema.xml:160
 msgid ""
-"The command used to launch a custom editor. Some limited templating is "
-"supported here; at the moment '{file}' and '{line}' are recognised tokens."
+"The command used to launch a custom editor. Some limited templating is supported here; at the "
+"moment '{file}' and '{line}' are recognised tokens."
 msgstr ""
-"தனிப்பயன் எடிட்டரைத் தொடங்க கட்டளை பயன்படுத்தப்படுகிறது. சில வரையறுக்கப்பட்ட டெம்ப்ளேட்டிங் "
-"இங்கே ஆதரிக்கப்படுகிறது; தற்போது '{file}' மற்றும் '{line}' ஆகியவை அங்கீகரிக்கப்பட்ட "
-"டோக்கன்கள்."
+"தனிப்பயன் எடிட்டரைத் தொடங்க கட்டளை பயன்படுத்தப்படுகிறது. சில வரையறுக்கப்பட்ட டெம்ப்ளேட்டிங் இங்கே "
+"ஆதரிக்கப்படுகிறது; தற்போது '{file}' மற்றும் '{line}' ஆகியவை அங்கீகரிக்கப்பட்ட டோக்கன்கள்."
 
 #: data/org.gnome.meld.gschema.xml:166
 msgid "Columns to display"
 msgstr "காட்ட வேண்டிய நெடுவரிசைகள்"
 
 #: data/org.gnome.meld.gschema.xml:167
-msgid ""
-"List of column names in folder comparison and whether they should be "
-"displayed."
-msgstr ""
-"கோப்புறை ஒப்பீட்டில் உள்ள நெடுவரிசைப் பெயர்களின் பட்டியல் மற்றும் அவை காட்டப்பட வேண்டுமா."
+msgid "List of column names in folder comparison and whether they should be displayed."
+msgstr "கோப்புறை ஒப்பீட்டில் உள்ள நெடுவரிசைப் பெயர்களின் பட்டியல் மற்றும் அவை காட்டப்பட வேண்டுமா."
 
 #: data/org.gnome.meld.gschema.xml:171 meld/resources/ui/preferences.ui:951
 msgid "Ignore symbolic links"
 msgstr "குறியீட்டு இணைப்புகளை புறக்கணிக்கவும்"
 
 #: data/org.gnome.meld.gschema.xml:172
-msgid ""
-"If true, folder comparisons do not follow symbolic links when traversing the "
-"folder tree."
-msgstr ""
-"உண்மை எனில், கோப்புறை ஒப்பீடுகள் கோப்புறை மரத்தில் பயணிக்கும் போது குறியீட்டு இணைப்புகளைப் "
-"பின்பற்றாது."
+msgid "If true, folder comparisons do not follow symbolic links when traversing the folder tree."
+msgstr "உண்மை எனில், கோப்புறை ஒப்பீடுகள் கோப்புறை மரத்தில் பயணிக்கும் போது குறியீட்டு இணைப்புகளைப் பின்பற்றாது."
 
 #: data/org.gnome.meld.gschema.xml:176
 msgid "Use shallow comparison"
@@ -296,13 +269,11 @@ msgstr "மேலோட்டமான ஒப்பீட்டைப் பய�
 
 #: data/org.gnome.meld.gschema.xml:177
 msgid ""
-"If true, folder comparisons compare files based solely on size and mtime, "
-"considering files to be identical if their size and mtime match, and "
-"different otherwise."
+"If true, folder comparisons compare files based solely on size and mtime, considering files to "
+"be identical if their size and mtime match, and different otherwise."
 msgstr ""
-"உண்மை எனில், கோப்புறை ஒப்பீடுகள் அளவு மற்றும் mtime அடிப்படையில் மட்டுமே கோப்புகளை "
-"ஒப்பிடும், அவற்றின் அளவு மற்றும் mtime பொருந்தினால் கோப்புகள் ஒரே மாதிரியாகவும், "
-"இல்லையெனில் வேறுபட்டதாகவும் இருக்கும்."
+"உண்மை எனில், கோப்புறை ஒப்பீடுகள் அளவு மற்றும் mtime அடிப்படையில் மட்டுமே கோப்புகளை ஒப்பிடும், அவற்றின் அளவு "
+"மற்றும் mtime பொருந்தினால் கோப்புகள் ஒரே மாதிரியாகவும், இல்லையெனில் வேறுபட்டதாகவும் இருக்கும்."
 
 #: data/org.gnome.meld.gschema.xml:181
 msgid "File timestamp resolution"
@@ -310,15 +281,13 @@ msgstr "கோப்பு நேர முத்திரை தீர்மா
 
 #: data/org.gnome.meld.gschema.xml:182
 msgid ""
-"When comparing based on mtime, this is the minimum difference in nanoseconds "
-"between two files before they’re considered to have different mtimes. This "
-"is useful when comparing files between filesystems with different timestamp "
-"resolution."
+"When comparing based on mtime, this is the minimum difference in nanoseconds between two files "
+"before they’re considered to have different mtimes. This is useful when comparing files "
+"between filesystems with different timestamp resolution."
 msgstr ""
-"mtime அடிப்படையில் ஒப்பிடும் போது, ​​இரண்டு கோப்புகள் வெவ்வேறு mtimeகளைக் கொண்டிருப்பதாகக் "
-"கருதப்படுவதற்கு முன், அவைகளுக்கு இடையேயான நானோ விநாடிகளில் உள்ள குறைந்தபட்ச வேறுபாடு "
-"இதுவாகும். வெவ்வேறு நேர முத்திரை தெளிவுத்திறனுடன் கோப்பு முறைமைகளுக்கு இடையில் "
-"கோப்புகளை ஒப்பிடும்போது இது பயனுள்ளதாக இருக்கும்."
+"mtime அடிப்படையில் ஒப்பிடும் போது, ​​இரண்டு கோப்புகள் வெவ்வேறு mtimeகளைக் கொண்டிருப்பதாகக் கருதப்படுவதற்கு "
+"முன், அவைகளுக்கு இடையேயான நானோ விநாடிகளில் உள்ள குறைந்தபட்ச வேறுபாடு இதுவாகும். வெவ்வேறு நேர முத்திரை "
+"தெளிவுத்திறனுடன் கோப்பு முறைமைகளுக்கு இடையில் கோப்புகளை ஒப்பிடும்போது இது பயனுள்ளதாக இருக்கும்."
 
 #: data/org.gnome.meld.gschema.xml:186 meld/resources/ui/preferences.ui:852
 msgid "Apply text filters during folder comparisons"
@@ -326,13 +295,11 @@ msgstr "கோப்புறையை ஒப்பிடும் போது 
 
 #: data/org.gnome.meld.gschema.xml:187
 msgid ""
-"If true, folder comparisons that compare file contents also apply active "
-"text filters and the blank line trimming option, and ignore newline "
-"differences."
+"If true, folder comparisons that compare file contents also apply active text filters and the "
+"blank line trimming option, and ignore newline differences."
 msgstr ""
-"உண்மை எனில், கோப்பு உள்ளடக்கங்களை ஒப்பிடும் கோப்புறை ஒப்பீடுகளும் செயலில் உள்ள உரை "
-"வடிப்பான்கள் மற்றும் வெற்று வரி டிரிம்மிங் விருப்பத்தைப் பயன்படுத்துகின்றன, மேலும் புதிய "
-"வரி வேறுபாடுகளைப் புறக்கணிக்கவும்."
+"உண்மை எனில், கோப்பு உள்ளடக்கங்களை ஒப்பிடும் கோப்புறை ஒப்பீடுகளும் செயலில் உள்ள உரை வடிப்பான்கள் மற்றும் வெற்று வரி "
+"டிரிம்மிங் விருப்பத்தைப் பயன்படுத்துகின்றன, மேலும் புதிய வரி வேறுபாடுகளைப் புறக்கணிக்கவும்."
 
 #: data/org.gnome.meld.gschema.xml:191
 msgid "File status filters"
@@ -340,8 +307,7 @@ msgstr "கோப்பு நிலை வடிகட்டிகள்"
 
 #: data/org.gnome.meld.gschema.xml:192
 msgid "List of statuses used to filter visible files in folder comparison."
-msgstr ""
-"கோப்புறை ஒப்பீட்டில் தெரியும் கோப்புகளை வடிகட்டப் பயன்படுத்தப்படும் நிலைகளின் பட்டியல்."
+msgstr "கோப்புறை ஒப்பீட்டில் தெரியும் கோப்புகளை வடிகட்டப் பயன்படுத்தப்படும் நிலைகளின் பட்டியல்."
 
 #: data/org.gnome.meld.gschema.xml:198
 msgid "Show the version control console output"
@@ -349,22 +315,19 @@ msgstr "பதிப்பு கட்டுப்பாட்டு கன்�
 
 #: data/org.gnome.meld.gschema.xml:199
 msgid ""
-"If true, a console output section will be shown in version control views, "
-"showing the commands run for version control operations."
+"If true, a console output section will be shown in version control views, showing the commands "
+"run for version control operations."
 msgstr ""
-"சரி எனில், பதிப்புக் கட்டுப்பாட்டுப் பார்வைகளில் கன்சோல் வெளியீட்டுப் பிரிவு காண்பிக்கப்படும், "
-"பதிப்புக் கட்டுப்பாட்டுச் செயல்பாடுகளுக்கு இயக்கப்படும் கட்டளைகளைக் காட்டும்."
+"சரி எனில், பதிப்புக் கட்டுப்பாட்டுப் பார்வைகளில் கன்சோல் வெளியீட்டுப் பிரிவு காண்பிக்கப்படும், பதிப்புக் "
+"கட்டுப்பாட்டுச் செயல்பாடுகளுக்கு இயக்கப்படும் கட்டளைகளைக் காட்டும்."
 
 #: data/org.gnome.meld.gschema.xml:203
 msgid "Version control pane position"
 msgstr "பதிப்பு கட்டுப்பாட்டு பலகத்தின் நிலை"
 
 #: data/org.gnome.meld.gschema.xml:204
-msgid ""
-"This is the height of the main version control tree when the console pane is "
-"shown."
-msgstr ""
-"கன்சோல் பலகம் காட்டப்படும் போது இது முதன்மை பதிப்பு கட்டுப்பாட்டு மரத்தின் உயரமாகும்."
+msgid "This is the height of the main version control tree when the console pane is shown."
+msgstr "கன்சோல் பலகம் காட்டப்படும் போது இது முதன்மை பதிப்பு கட்டுப்பாட்டு மரத்தின் உயரமாகும்."
 
 #: data/org.gnome.meld.gschema.xml:208
 msgid "Present version comparisons as left-local/right-remote"
@@ -372,13 +335,13 @@ msgstr "தற்போதைய பதிப்பு ஒப்பீடுக�
 
 #: data/org.gnome.meld.gschema.xml:209
 msgid ""
-"If true, version control comparisons will use a left-is-local, right-is-"
-"remote scheme to determine what order to present files in panes. Otherwise, "
-"a left-is-theirs, right-is-mine scheme is used."
+"If true, version control comparisons will use a left-is-local, right-is-remote scheme to "
+"determine what order to present files in panes. Otherwise, a left-is-theirs, right-is-mine "
+"scheme is used."
 msgstr ""
-"சரி எனில், பதிப்புக் கட்டுப்பாட்டு ஒப்பீடுகள் லெஃப்ட் இச் உள்ளக, ரைட் இச் ரிமோட் ச்கீமினைப் "
-"பயன்படுத்தி, பேனலில் கோப்புகளை எந்த வரிசையில் வழங்க வேண்டும் என்பதைத் தீர்மானிக்கும். "
-"இல்லையெனில், இடது-அவர்களின், வலது-எனது திட்டம் பயன்படுத்தப்படுகிறது."
+"சரி எனில், பதிப்புக் கட்டுப்பாட்டு ஒப்பீடுகள் லெஃப்ட் இச் உள்ளக, ரைட் இச் ரிமோட் ச்கீமினைப் பயன்படுத்தி, பேனலில் "
+"கோப்புகளை எந்த வரிசையில் வழங்க வேண்டும் என்பதைத் தீர்மானிக்கும். இல்லையெனில், இடது-அவர்களின், வலது-எனது திட்டம் "
+"பயன்படுத்தப்படுகிறது."
 
 #: data/org.gnome.meld.gschema.xml:213
 msgid "Order for files in three-way version control merge comparisons"
@@ -386,14 +349,13 @@ msgstr "மூன்று வழி பதிப்பு கட்டுப்
 
 #: data/org.gnome.meld.gschema.xml:214
 msgid ""
-"Choices for file order are remote/merged/local and local/merged/remote. This "
-"preference only affects three-way comparisons launched from the version "
-"control view, so is used solely for merges/conflict resolution within Meld."
+"Choices for file order are remote/merged/local and local/merged/remote. This preference only "
+"affects three-way comparisons launched from the version control view, so is used solely for "
+"merges/conflict resolution within Meld."
 msgstr ""
-"கோப்பு ஆர்டருக்கான தேர்வுகள் ரிமோட்/இணைக்கப்பட்ட/உள்ளூர் மற்றும் உள்ளூர்/இணைக்கப்பட்ட/"
-"தொலைநிலை. இந்த விருப்பம் பதிப்புக் கட்டுப்பாட்டுப் பார்வையிலிருந்து தொடங்கப்பட்ட மூன்று வழி "
-"ஒப்பீடுகளை மட்டுமே பாதிக்கிறது, எனவே இது Meld இல் உள்ள இணைப்புகள்/மோதல் தீர்வுக்கு "
-"மட்டுமே பயன்படுத்தப்படுகிறது."
+"கோப்பு ஆர்டருக்கான தேர்வுகள் ரிமோட்/இணைக்கப்பட்ட/உள்ளூர் மற்றும் உள்ளூர்/இணைக்கப்பட்ட/தொலைநிலை. இந்த விருப்பம் "
+"பதிப்புக் கட்டுப்பாட்டுப் பார்வையிலிருந்து தொடங்கப்பட்ட மூன்று வழி ஒப்பீடுகளை மட்டுமே பாதிக்கிறது, எனவே இது "
+"Meld இல் உள்ள இணைப்புகள்/மோதல் தீர்வுக்கு மட்டுமே பயன்படுத்தப்படுகிறது."
 
 #: data/org.gnome.meld.gschema.xml:218
 msgid "Show margin in commit message editor"
@@ -401,20 +363,18 @@ msgstr "கமிட் செய்தி எடிட்டரில் வி
 
 #: data/org.gnome.meld.gschema.xml:219
 msgid ""
-"If true, a guide will be displayed to show what column the margin is at in "
-"the version control commit message editor."
+"If true, a guide will be displayed to show what column the margin is at in the version control "
+"commit message editor."
 msgstr ""
-"சரி எனில், பதிப்புக் கட்டுப்பாடு செய்தி எடிட்டரில் விளிம்பு எந்த நெடுவரிசையில் உள்ளது "
-"என்பதைக் காட்ட வழிகாட்டி காட்டப்படும்."
+"சரி எனில், பதிப்புக் கட்டுப்பாடு செய்தி எடிட்டரில் விளிம்பு எந்த நெடுவரிசையில் உள்ளது என்பதைக் காட்ட வழிகாட்டி "
+"காட்டப்படும்."
 
 #: data/org.gnome.meld.gschema.xml:223
 msgid "Margin column in commit message editor"
 msgstr "கமிட் செய்தி எடிட்டரில் விளிம்பு நெடுவரிசை"
 
 #: data/org.gnome.meld.gschema.xml:224
-msgid ""
-"The column at which to show the margin in the version control commit message "
-"editor."
+msgid "The column at which to show the margin in the version control commit message editor."
 msgstr "பதிப்பு கட்டுப்பாட்டு கமிட் செய்தி எடிட்டரில் விளிம்பைக் காட்ட வேண்டிய நெடுவரிசை."
 
 #: data/org.gnome.meld.gschema.xml:228
@@ -423,22 +383,19 @@ msgstr "தானாக கடின மடக்கு கமிட் செ�
 
 #: data/org.gnome.meld.gschema.xml:229
 msgid ""
-"If true, the version control commit message editor will hard-wrap (i.e., "
-"insert line breaks) at the commit margin before commit."
+"If true, the version control commit message editor will hard-wrap (i.e., insert line breaks) "
+"at the commit margin before commit."
 msgstr ""
-"உண்மை எனில், பதிப்புக் கட்டுப்பாடு கமிட் செய்தி எடிட்டர் கமிட் செய்வதற்கு முன் கமிட் "
-"விளிம்பில் கடின மடக்கு (அதாவது வரி முறிவுகளைச் செருகும்)."
+"உண்மை எனில், பதிப்புக் கட்டுப்பாடு கமிட் செய்தி எடிட்டர் கமிட் செய்வதற்கு முன் கமிட் விளிம்பில் கடின மடக்கு "
+"(அதாவது வரி முறிவுகளைச் செருகும்)."
 
 #: data/org.gnome.meld.gschema.xml:233
 msgid "Version control status filters"
 msgstr "பதிப்பு கட்டுப்பாட்டு நிலை வடிகட்டிகள்"
 
 #: data/org.gnome.meld.gschema.xml:234
-msgid ""
-"List of statuses used to filter visible files in version control comparison."
-msgstr ""
-"பதிப்பு கட்டுப்பாட்டு ஒப்பீட்டில் தெரியும் கோப்புகளை வடிகட்டப் பயன்படுத்தப்படும் நிலைகளின் "
-"பட்டியல்."
+msgid "List of statuses used to filter visible files in version control comparison."
+msgstr "பதிப்பு கட்டுப்பாட்டு ஒப்பீட்டில் தெரியும் கோப்புகளை வடிகட்டப் பயன்படுத்தப்படும் நிலைகளின் பட்டியல்."
 
 #: data/org.gnome.meld.gschema.xml:248
 msgid "Filename-based filters"
@@ -446,11 +403,11 @@ msgstr "கோப்பு பெயர் அடிப்படையிலா�
 
 #: data/org.gnome.meld.gschema.xml:249
 msgid ""
-"List of predefined filename-based filters that, if active, will remove "
-"matching files from a folder comparison."
+"List of predefined filename-based filters that, if active, will remove matching files from a "
+"folder comparison."
 msgstr ""
-"முன் வரையறுக்கப்பட்ட கோப்புப்பெயர் அடிப்படையிலான வடிப்பான்களின் பட்டியல், செயலில் இருந்தால், "
-"கோப்புறை ஒப்பீட்டிலிருந்து பொருந்தக்கூடிய கோப்புகளை அகற்றும்."
+"முன் வரையறுக்கப்பட்ட கோப்புப்பெயர் அடிப்படையிலான வடிப்பான்களின் பட்டியல், செயலில் இருந்தால், கோப்புறை "
+"ஒப்பீட்டிலிருந்து பொருந்தக்கூடிய கோப்புகளை அகற்றும்."
 
 #: data/org.gnome.meld.gschema.xml:263
 msgid "Text-based filters"
@@ -458,13 +415,12 @@ msgstr "உரை அடிப்படையிலான வடிப்பா�
 
 #: data/org.gnome.meld.gschema.xml:264
 msgid ""
-"List of predefined text-based regex filters that, if active, will remove "
-"text from being used in a file comparison. The text will still be displayed, "
-"but won’t contribute to the comparison itself."
+"List of predefined text-based regex filters that, if active, will remove text from being used "
+"in a file comparison. The text will still be displayed, but won’t contribute to the comparison "
+"itself."
 msgstr ""
-"முன் வரையறுக்கப்பட்ட உரை அடிப்படையிலான ரீசெக்ச் வடிப்பான்களின் பட்டியல், செயலில் இருந்தால், "
-"கோப்பு ஒப்பீட்டில் பயன்படுத்தப்படாமல் உரையை அகற்றும். உரை இன்னும் காட்டப்படும், ஆனால் "
-"ஒப்பீட்டிற்கு பங்களிக்காது."
+"முன் வரையறுக்கப்பட்ட உரை அடிப்படையிலான ரீசெக்ச் வடிப்பான்களின் பட்டியல், செயலில் இருந்தால், கோப்பு ஒப்பீட்டில் "
+"பயன்படுத்தப்படாமல் உரையை அகற்றும். உரை இன்னும் காட்டப்படும், ஆனால் ஒப்பீட்டிற்கு பங்களிக்காது."
 
 #: data/styles/meld-base.style-scheme.xml.in:1
 msgid "Classic (Meld)"
@@ -707,8 +663,7 @@ msgctxt "shortcut window"
 msgid "Copy change below right"
 msgstr "கீழே வலதுபுறத்தில் மாற்றத்தை நகலெடுக்கவும்"
 
-#: meld/resources/gtk/help-overlay.ui:327
-#: meld/resources/gtk/help-overlay.ui:355
+#: meld/resources/gtk/help-overlay.ui:327 meld/resources/gtk/help-overlay.ui:355
 msgctxt "shortcut window"
 msgid "Delete change"
 msgstr "மாற்றத்தை நீக்கு"
@@ -765,7 +720,7 @@ msgstr "ஒப்பீட்டைப் புதுப்பிக்கவ�
 
 #: meld/resources/gtk/menus.ui:33
 msgid "_Find…"
-msgstr "_கண்டுபிடி..."
+msgstr "கண்டுபிடி..."
 
 #: meld/resources/gtk/menus.ui:37
 msgid "_Replace…"
@@ -847,8 +802,7 @@ msgstr "அதே"
 msgid "New"
 msgstr "புதிய"
 
-#: meld/resources/gtk/menus.ui:141 meld/resources/gtk/menus.ui:164
-#: meld/vc/_vc.py:77
+#: meld/resources/gtk/menus.ui:141 meld/resources/gtk/menus.ui:164 meld/vc/_vc.py:77
 msgid "Modified"
 msgstr "மாற்றியமைக்கப்பட்ட"
 
@@ -1109,11 +1063,11 @@ msgstr "முழு பாதையை நகலெடுக்கவும்"
 #: meld/resources/ui/filediff.ui:31 meld/resources/ui/filediff.ui:100
 #: meld/resources/ui/filediff.ui:169
 msgid ""
-"This file can not be written to. You may click here to unlock this file and "
-"make changes anyway, but these changes must be saved to a new file."
+"This file can not be written to. You may click here to unlock this file and make changes "
+"anyway, but these changes must be saved to a new file."
 msgstr ""
-"இந்தக் கோப்பை எழுத முடியாது. இந்தக் கோப்பைத் திறக்க, எப்படியும் மாற்றங்களைச் செய்ய நீங்கள் "
-"இங்கே சொடுக்கு செய்யலாம், ஆனால் இந்த மாற்றங்கள் புதிய கோப்பில் சேமிக்கப்பட வேண்டும்."
+"இந்தக் கோப்பை எழுத முடியாது. இந்தக் கோப்பைத் திறக்க, எப்படியும் மாற்றங்களைச் செய்ய நீங்கள் இங்கே சொடுக்கு "
+"செய்யலாம், ஆனால் இந்த மாற்றங்கள் புதிய கோப்பில் சேமிக்கப்பட வேண்டும்."
 
 #: meld/resources/ui/filediff.ui:45 meld/resources/ui/filediff.ui:114
 #: meld/resources/ui/filediff.ui:183
@@ -1138,8 +1092,7 @@ msgid "File 1"
 msgstr "கோப்பு 1"
 
 #. Create icon and filename CellRenderer
-#: meld/resources/ui/filter-list.ui:54 meld/resources/ui/vcview.ui:217
-#: meld/dirdiff.py:618
+#: meld/resources/ui/filter-list.ui:54 meld/resources/ui/vcview.ui:217 meld/dirdiff.py:618
 msgid "Name"
 msgstr "பெயர்"
 
@@ -1191,8 +1144,7 @@ msgstr "கண்டுபிடி மற்றும் கண்டுபி�
 msgid "Search highlight mode…"
 msgstr "தேடல் ஐலைட் பயன்முறை…"
 
-#: meld/resources/ui/new-diff-tab.ui:20 meld/meldwindow.py:342
-#: meld/newdifftab.py:49
+#: meld/resources/ui/new-diff-tab.ui:20 meld/meldwindow.py:342 meld/newdifftab.py:49
 msgid "New comparison"
 msgstr "புதிய ஒப்பீடு"
 
@@ -1396,8 +1348,7 @@ msgstr "_நேர முத்திரை தீர்மானம்:"
 
 #: meld/resources/ui/preferences.ui:871
 msgid "Note: enabling text filters may make comparing large files much slower"
-msgstr ""
-"குறிப்பு: உரை வடிப்பான்களை இயக்குவது பெரிய கோப்புகளை ஒப்பிடுவதை மிகவும் மெதுவாக்கலாம்"
+msgstr "குறிப்பு: உரை வடிப்பான்களை இயக்குவது பெரிய கோப்புகளை ஒப்பிடுவதை மிகவும் மெதுவாக்கலாம்"
 
 #: meld/resources/ui/preferences.ui:920
 msgid "Symbolic Links"
@@ -1445,12 +1396,11 @@ msgstr "கோப்பு பெயர் வடிப்பான்கள்"
 
 #: meld/resources/ui/preferences.ui:1427
 msgid ""
-"When performing directory comparisons, you may filter out files and "
-"directories by name. Each pattern is a list of shell style wildcards "
-"separated by spaces."
+"When performing directory comparisons, you may filter out files and directories by name. Each "
+"pattern is a list of shell style wildcards separated by spaces."
 msgstr ""
-"அடைவு ஒப்பீடுகளைச் செய்யும்போது, ​​கோப்புகள் மற்றும் கோப்பகங்களை பெயரின்படி வடிகட்டலாம். "
-"ஒவ்வொரு வடிவமும் இடைவெளிகளால் பிரிக்கப்பட்ட செல் பாணி வைல்டு கார்டுகளின் பட்டியலாகும்."
+"அடைவு ஒப்பீடுகளைச் செய்யும்போது, ​​கோப்புகள் மற்றும் கோப்பகங்களை பெயரின்படி வடிகட்டலாம். ஒவ்வொரு வடிவமும் "
+"இடைவெளிகளால் பிரிக்கப்பட்ட செல் பாணி வைல்டு கார்டுகளின் பட்டியலாகும்."
 
 #: meld/resources/ui/preferences.ui:1494
 msgid "Change trimming"
@@ -1458,8 +1408,7 @@ msgstr "டிரிமிங்கை மாற்றவும்"
 
 #: meld/resources/ui/preferences.ui:1530
 msgid "Trim blank line differences from the start and end of changes"
-msgstr ""
-"மாற்றங்களின் தொடக்கம் மற்றும் முடிவிலிருந்து வெற்று வரி வேறுபாடுகளை ஒழுங்கமைக்கவும்"
+msgstr "மாற்றங்களின் தொடக்கம் மற்றும் முடிவிலிருந்து வெற்று வரி வேறுபாடுகளை ஒழுங்கமைக்கவும்"
 
 #: meld/resources/ui/preferences.ui:1574
 msgid "Text filters"
@@ -1467,16 +1416,14 @@ msgstr "உரை வடிப்பான்கள்"
 
 #: meld/resources/ui/preferences.ui:1612
 msgid ""
-"When performing file comparisons, you may ignore certain types of changes. "
-"Each pattern here is a python regular expression which replaces matching "
-"text with the empty string before comparison is performed. If the expression "
-"contains groups, only the groups are replaced. See the user manual for more "
-"details."
+"When performing file comparisons, you may ignore certain types of changes. Each pattern here "
+"is a python regular expression which replaces matching text with the empty string before "
+"comparison is performed. If the expression contains groups, only the groups are replaced. See "
+"the user manual for more details."
 msgstr ""
-"கோப்பு ஒப்பீடுகளைச் செய்யும்போது, ​​சில வகையான மாற்றங்களை நீங்கள் புறக்கணிக்கலாம். இங்குள்ள "
-"ஒவ்வொரு வடிவமும் பைதான் ரெகுலர் எக்ச்ப்ரெசன் ஆகும், இது ஒப்பிடும் முன் வெற்று சரத்துடன் "
-"பொருந்தும் உரையை மாற்றுகிறது. வெளிப்பாடு குழுக்கள் இருந்தால், குழுக்கள் மட்டுமே "
-"மாற்றப்படும். மேலும் விவரங்களுக்கு பயனர் கையேட்டைப் பார்க்கவும்."
+"கோப்பு ஒப்பீடுகளைச் செய்யும்போது, ​​சில வகையான மாற்றங்களை நீங்கள் புறக்கணிக்கலாம். இங்குள்ள ஒவ்வொரு வடிவமும் பைதான் "
+"ரெகுலர் எக்ச்ப்ரெசன் ஆகும், இது ஒப்பிடும் முன் வெற்று சரத்துடன் பொருந்தும் உரையை மாற்றுகிறது. வெளிப்பாடு "
+"குழுக்கள் இருந்தால், குழுக்கள் மட்டுமே மாற்றப்படும். மேலும் விவரங்களுக்கு பயனர் கையேட்டைப் பார்க்கவும்."
 
 #: meld/resources/ui/preferences.ui:1703
 msgid "Left is remote, right is local"
@@ -1562,8 +1509,8 @@ msgstr "நீங்கள் சேமிக்கவில்லை என்�
 msgid "Close _without Saving"
 msgstr "சேமிக்காமல் மூடு"
 
-#: meld/resources/ui/save-confirm-dialog.ui:41 meld/dirdiff.py:1244
-#: meld/iohelpers.py:56 meld/iohelpers.py:116
+#: meld/resources/ui/save-confirm-dialog.ui:41 meld/dirdiff.py:1244 meld/iohelpers.py:56
+#: meld/iohelpers.py:116
 msgid "_Cancel"
 msgstr "_ரத்துசெய்"
 
@@ -1714,17 +1661,14 @@ msgid "Contents of scanned files in folders are identical."
 msgstr "கோப்புறைகளில் வருடு செய்யப்பட்ட கோப்புகளின் உள்ளடக்கம் ஒரே மாதிரியாக இருக்கும்."
 
 #: meld/dirdiff.py:1139
-msgid ""
-"Scanned files in folders appear identical, but contents have not been "
-"scanned."
+msgid "Scanned files in folders appear identical, but contents have not been scanned."
 msgstr ""
-"கோப்புறைகளில் உள்ள வருடு செய்யப்பட்ட கோப்புகள் ஒரே மாதிரியாகத் தோன்றும், ஆனால் உள்ளடக்கங்கள் "
-"வருடு செய்யப்படவில்லை."
+"கோப்புறைகளில் உள்ள வருடு செய்யப்பட்ட கோப்புகள் ஒரே மாதிரியாகத் தோன்றும், ஆனால் உள்ளடக்கங்கள் வருடு "
+"செய்யப்படவில்லை."
 
 #: meld/dirdiff.py:1142
 msgid "File filters are in use, so not all files have been scanned."
-msgstr ""
-"கோப்பு வடிப்பான்கள் பயன்பாட்டில் உள்ளன, எனவே எல்லா கோப்புகளும் வருடு செய்யப்படவில்லை."
+msgstr "கோப்பு வடிப்பான்கள் பயன்பாட்டில் உள்ளன, எனவே எல்லா கோப்புகளும் வருடு செய்யப்படவில்லை."
 
 #: meld/dirdiff.py:1144
 msgid "Text filters are in use and may be masking content differences."
@@ -1734,8 +1678,8 @@ msgstr "உரை வடிப்பான்கள் பயன்பாட்�
 msgid "Hide"
 msgstr "மறை"
 
-#: meld/dirdiff.py:1162 meld/filediff.py:2005 meld/filediff.py:2035
-#: meld/filediff.py:2037 meld/ui/msgarea.py:114 meld/ui/msgarea.py:127
+#: meld/dirdiff.py:1162 meld/filediff.py:2005 meld/filediff.py:2035 meld/filediff.py:2037
+#: meld/ui/msgarea.py:114 meld/ui/msgarea.py:127
 msgid "Hi_de"
 msgstr "Hi_de"
 
@@ -1759,11 +1703,11 @@ msgstr "கேச் சென்சிட்டிவ் ஒப்பீடு 
 #. TRANSLATORS: This is followed by a list of files
 #: meld/dirdiff.py:1178
 msgid ""
-"You are running a case insensitive comparison on a case sensitive "
-"filesystem. The following files in this folder are hidden:"
+"You are running a case insensitive comparison on a case sensitive filesystem. The following "
+"files in this folder are hidden:"
 msgstr ""
-"கேச் சென்சிட்டிவ் கோப்பு அமைப்பில் கேச் சென்சிட்டிவ் ஒப்பீட்டை இயக்குகிறீர்கள். இந்தக் "
-"கோப்புறையில் பின்வரும் கோப்புகள் மறைக்கப்பட்டுள்ளன:"
+"கேச் சென்சிட்டிவ் கோப்பு அமைப்பில் கேச் சென்சிட்டிவ் ஒப்பீட்டை இயக்குகிறீர்கள். இந்தக் கோப்புறையில் பின்வரும் கோப்புகள் "
+"மறைக்கப்பட்டுள்ளன:"
 
 #: meld/dirdiff.py:1189
 #, python-brace-format
@@ -1819,19 +1763,17 @@ msgstr "ஒப்பீடு முடிவுகள் தவறாக இர
 
 #: meld/filediff.py:1173
 msgid ""
-"A filter changed the number of lines in the file, which is unsupported. The "
-"comparison will not be accurate."
+"A filter changed the number of lines in the file, which is unsupported. The comparison will "
+"not be accurate."
 msgstr ""
-"ஒரு வடிகட்டி கோப்பில் உள்ள வரிகளின் எண்ணிக்கையை மாற்றியது, இது ஆதரிக்கப்படவில்லை. ஒப்பீடு "
-"சரியாக இருக்காது."
+"ஒரு வடிகட்டி கோப்பில் உள்ள வரிகளின் எண்ணிக்கையை மாற்றியது, இது ஆதரிக்கப்படவில்லை. ஒப்பீடு சரியாக இருக்காது."
 
 #: meld/filediff.py:1245
 msgid "Mark conflict as resolved?"
 msgstr "மோதலைத் தீர்த்ததாகக் குறிக்கவா?"
 
 #: meld/filediff.py:1247
-msgid ""
-"If the conflict was resolved successfully, you may mark it as resolved now."
+msgid "If the conflict was resolved successfully, you may mark it as resolved now."
 msgstr "மோதல் வெற்றிகரமாக தீர்க்கப்பட்டால், அதை இப்போது தீர்க்கப்பட்டதாகக் குறிக்கலாம்."
 
 #: meld/filediff.py:1250
@@ -1917,11 +1859,11 @@ msgstr "கோப்புகள் ஒரே மாதிரியானவை"
 
 #: meld/filediff.py:1981
 msgid ""
-"Text filters are being used, and may be masking differences between files. "
-"Would you like to compare the unfiltered files?"
+"Text filters are being used, and may be masking differences between files. Would you like to "
+"compare the unfiltered files?"
 msgstr ""
-"உரை வடிப்பான்கள் பயன்படுத்தப்படுகின்றன, மேலும் கோப்புகளுக்கு இடையே உள்ள வேறுபாடுகளை "
-"மறைப்பதாக இருக்கலாம். வடிகட்டப்படாத கோப்புகளை ஒப்பிட விரும்புகிறீர்களா?"
+"உரை வடிப்பான்கள் பயன்படுத்தப்படுகின்றன, மேலும் கோப்புகளுக்கு இடையே உள்ள வேறுபாடுகளை மறைப்பதாக இருக்கலாம். "
+"வடிகட்டப்படாத கோப்புகளை ஒப்பிட விரும்புகிறீர்களா?"
 
 #: meld/filediff.py:1986
 msgid "Files differ in line endings only"
@@ -1946,11 +1888,11 @@ msgstr "முழுமையடையாத தனிப்படுத்த�
 
 #: meld/filediff.py:2031
 msgid ""
-"Some changes were not highlighted because they were too large. You can force "
-"Meld to take longer to highlight larger changes, though this may be slow."
+"Some changes were not highlighted because they were too large. You can force Meld to take "
+"longer to highlight larger changes, though this may be slow."
 msgstr ""
-"சில மாற்றங்கள் மிகப் பெரியதாக இருந்ததால் முன்னிலைப்படுத்தப்படவில்லை. பெரிய மாற்றங்களை "
-"முன்னிலைப்படுத்த மெல்டைக் கட்டாயப்படுத்தலாம், இருப்பினும் இது மெதுவாக இருக்கலாம்."
+"சில மாற்றங்கள் மிகப் பெரியதாக இருந்ததால் முன்னிலைப்படுத்தப்படவில்லை. பெரிய மாற்றங்களை முன்னிலைப்படுத்த மெல்டைக் "
+"கட்டாயப்படுத்தலாம், இருப்பினும் இது மெதுவாக இருக்கலாம்."
 
 #: meld/filediff.py:2039
 msgid "Keep highlighting"
@@ -1966,11 +1908,8 @@ msgstr "சேமிப்பு தோல்வியடைந்தது"
 
 #: meld/filediff.py:2055
 msgid ""
-"Please consider copying any critical changes to another program or file to "
-"avoid data loss."
-msgstr ""
-"தரவு இழப்பைத் தவிர்க்க, ஏதேனும் முக்கியமான மாற்றங்களை மற்றொரு நிரல் அல்லது கோப்பில் "
-"நகலெடுக்கவும்."
+"Please consider copying any critical changes to another program or file to avoid data loss."
+msgstr "தரவு இழப்பைத் தவிர்க்க, ஏதேனும் முக்கியமான மாற்றங்களை மற்றொரு நிரல் அல்லது கோப்பில் நகலெடுக்கவும்."
 
 #: meld/filediff.py:2064
 msgid "Save Left Pane As"
@@ -2002,12 +1941,8 @@ msgid "Don’t Save"
 msgstr "சேமிக்க வேண்டாம்"
 
 #: meld/filediff.py:2127
-msgid ""
-"File “{}” contains characters that can’t be encoded using its current "
-"encoding “{}”."
-msgstr ""
-"“{}” கோப்பில் அதன் தற்போதைய குறியாக்க “{}” ஐப் பயன்படுத்தி குறியாக்கம் செய்ய முடியாத "
-"எழுத்துகள் உள்ளன."
+msgid "File “{}” contains characters that can’t be encoded using its current encoding “{}”."
+msgstr "“{}” கோப்பில் அதன் தற்போதைய குறியாக்க “{}” ஐப் பயன்படுத்தி குறியாக்கம் செய்ய முடியாத எழுத்துகள் உள்ளன."
 
 #: meld/filediff.py:2131 meld/patchdialog.py:138
 #, python-format
@@ -2029,13 +1964,13 @@ msgstr "நேரடி ஒப்பீடு புதுப்பித்த�
 
 #: meld/filediff.py:2546
 msgid ""
-"Live updating of comparisons is disabled when synchronization points are "
-"active. You can still manually refresh the comparison, and live updates will "
-"resume when synchronization points are cleared."
+"Live updating of comparisons is disabled when synchronization points are active. You can still "
+"manually refresh the comparison, and live updates will resume when synchronization points are "
+"cleared."
 msgstr ""
-"ஒத்திசைவு புள்ளிகள் செயலில் இருக்கும்போது ஒப்பீடுகளின் நேரடி புதுப்பித்தல் முடக்கப்படும். "
-"ஒப்பீட்டை நீங்கள் இன்னும் கைமுறையாகப் புதுப்பிக்கலாம், மேலும் ஒத்திசைவுப் புள்ளிகள் "
-"அழிக்கப்படும்போது நேரடி புதுப்பிப்புகள் மீண்டும் தொடங்கும்."
+"ஒத்திசைவு புள்ளிகள் செயலில் இருக்கும்போது ஒப்பீடுகளின் நேரடி புதுப்பித்தல் முடக்கப்படும். ஒப்பீட்டை நீங்கள் இன்னும் "
+"கைமுறையாகப் புதுப்பிக்கலாம், மேலும் ஒத்திசைவுப் புள்ளிகள் அழிக்கப்படும்போது நேரடி புதுப்பிப்புகள் மீண்டும் "
+"தொடங்கும்."
 
 #: meld/filediff.py:2574
 msgid "Can't swap unsaved files"
@@ -2449,11 +2384,11 @@ msgstr "கோப்புறையையும் அதன் அனைத்�
 
 #: meld/vcview.py:762
 msgid ""
-"This will remove all selected files and folders, and all files within any "
-"selected folders, from version control."
+"This will remove all selected files and folders, and all files within any selected folders, "
+"from version control."
 msgstr ""
-"இது தேர்ந்தெடுக்கப்பட்ட அனைத்து கோப்புகள் மற்றும் கோப்புறைகள் மற்றும் தேர்ந்தெடுக்கப்பட்ட "
-"கோப்புறைகளில் உள்ள அனைத்து கோப்புகளையும் பதிப்பு கட்டுப்பாட்டிலிருந்து அகற்றும்."
+"இது தேர்ந்தெடுக்கப்பட்ட அனைத்து கோப்புகள் மற்றும் கோப்புறைகள் மற்றும் தேர்ந்தெடுக்கப்பட்ட கோப்புறைகளில் உள்ள அனைத்து "
+"கோப்புகளையும் பதிப்பு கட்டுப்பாட்டிலிருந்து அகற்றும்."
 
 #: meld/vcview.py:875
 msgid "Clear"
